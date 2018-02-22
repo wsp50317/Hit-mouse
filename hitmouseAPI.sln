@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hitmouseAPI", "hitmouseAPI\hitmouseAPI.vcxproj", "{4297732B-0822-4728-9299-9D4E5D947A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4297732B-0822-4728-9299-9D4E5D947A77}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4297732B-0822-4728-9299-9D4E5D947A77}.Debug|Win32.Build.0 = Debug|Win32
+		{4297732B-0822-4728-9299-9D4E5D947A77}.Release|Win32.ActiveCfg = Release|Win32
+		{4297732B-0822-4728-9299-9D4E5D947A77}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
