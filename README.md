@@ -9,14 +9,17 @@ Hit-mouse
 Just open Visual Studio and open the .sln,then compile and execute.
 
 In the beginning,there is an animated short film.
+
 ![image](https://github.com/wsp50317/Hit-mouse/blob/master/ReadMePicture/character.png)
 
 After it finish,you can choose the mode you want to enter.
+
 ![image](https://github.com/wsp50317/Hit-mouse/blob/master/ReadMePicture/title.png)
 
 When you enter the game mode,press keyboard to hit mouse.
 You will lose if you miss mouses or hit the carrot for three times.
-https://github.com/wsp50317/Hit-mouse/blob/master/ReadMePicture/gaming.png
+
+![image](https://github.com/wsp50317/Hit-mouse/blob/master/ReadMePicture/gaming.png)
 
 ### Prerequisites
 
