@@ -3,7 +3,9 @@
 
 The project 's name is Hit Mouse,and it is special topic for OOP course.It is my first project with the cooperation of other classmates.
 
-As a gorilla,you should hit the mouse to protect your home.
+As a gorilla,you should hit the gopher to protect your home.
+
+(I did not know that the correct name of this game is "Whack A Mole" until later,and "Gopher" is not equal to "Mouse") 
 
 ## Getting Started
 
@@ -17,8 +19,8 @@ After it finish,you can choose the mode you want to enter.
 
 ![image](https://github.com/wsp50317/Hit-mouse/blob/master/ReadMePicture/title.png)
 
-When you enter the game mode,press keyboard to hit mouse.
-You will lose if you miss mouses or hit the carrot for three times.
+When you enter the game mode,press keyboard to hit gopher.
+You will lose if you miss gophers or hit the carrot for three times.
 
 ![image](https://github.com/wsp50317/Hit-mouse/blob/master/ReadMePicture/gaming.png)
 
