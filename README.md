@@ -1,8 +1,8 @@
-This is special topic for OOP course.
 
 # Project Title
 
-Hit-mouse
+The project 's name is Hit Mouse,and it is special topic for OOP course.It is my first project with the cooperation of other classmates.
+As a gorilla,you should hit the mouse to protect your home.
 
 ## Getting Started
 
