@@ -39,4 +39,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Acknowledgments
 
-*OOP
+*Object-oriented
